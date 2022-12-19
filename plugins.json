@@ -5,13 +5,18 @@
     "thumb": "https://raw.githubusercontent.com/FlexyAddons/plugins-list/main/img/calculated-field.jpeg"
   },
   {
-    "name": "Switcher Field for Elementor Form",
-    "demo": "https://codecanyon.net/item/switcher-field-for-elementor-form/35287554",
-    "thumb": "https://raw.githubusercontent.com/FlexyAddons/plugins-list/main/img/switcher-field.jpeg"
+    "name": "Advanced Checkbox & Radio Fields for Elementor Form",
+    "demo": "https://codecanyon.net/item/advanced-checkbox-radio-fields-for-elementor-form/42367649",
+    "thumb": "https://raw.githubusercontent.com/FlexyAddons/plugins-list/main/img/check-radio-fields.jpg"
   },
   {
     "name": "Rating Field for Elementor Form",
     "demo": "https://codecanyon.net/item/rating-field-for-elementor-form/35537468",
     "thumb": "https://raw.githubusercontent.com/FlexyAddons/plugins-list/main/img/rating-field.jpeg"
+  },
+  {
+    "name": "Switcher Field for Elementor Form",
+    "demo": "https://codecanyon.net/item/switcher-field-for-elementor-form/35287554",
+    "thumb": "https://raw.githubusercontent.com/FlexyAddons/plugins-list/main/img/switcher-field.jpeg"
   }
 ]
